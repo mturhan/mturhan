@@ -9,4 +9,4 @@
 <p align="left">  
 I'm always excited to connect with fellow developers and enthusiasts in the tech community. Let's exchange experiences and ideas! Please, find me on my socials below, and let's stay in touch!
 </p>
-Thank you, and I look forward to staying connected! 
+
