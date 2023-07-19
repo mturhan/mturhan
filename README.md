@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello there! 👋 My name is Murat Abdulkadir Turhan, and I'm a passionate software developer based in Istanbul. Thank you for stopping by my page!
 
-<!--
-**mturhan/mturhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a software engineer, I have expertise in both frontend and backend programming. I enjoy working with popular technologies like Firebase and Figma, constantly striving to create sophisticated programs that cater to diverse audiences. My GitHub showcases proficient web projects that I've built as part of my journey towards achieving my goals.
 
-Here are some ideas to get you started:
+👨‍💻 You can explore all of my projects at ms-web-portfolio.com.
+📫 Feel free to reach out to me at murat.a.turhan@hotmail.com.
+I'm always excited to connect with fellow developers and enthusiasts in the tech community. Let's exchange experiences and ideas! Please, find me on my socials below, and let's stay in touch!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Media:
+
+LinkedIn: linkedin.com/in/muratabdulkadirturhan
+Twitter: @muratdev
+GitHub: github.com/muratabdulkadirturhan
+Thank you, and I look forward to staying connected! 😊
